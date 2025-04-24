@@ -1,4 +1,4 @@
-#check given input is palindrome
+# check given input is palindrome
 def palindrome(name):
     if name == name[::-1]:
         return True
